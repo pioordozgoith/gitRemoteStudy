@@ -1,0 +1,237 @@
+﻿Diagnose log at 2024-09-26T02:18:06Z
+
+Executable: F:\Git\mingw64\bin\git-credential-manager-core.exe
+Version: 2.0.785+6074e4e3d3
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 19045)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\Pio
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=DESKTOP-UUR0U9Q
+MSYSTEM=MINGW64
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+PROCESSOR_LEVEL=6
+LANG=pt_BR.UTF-8
+ChocolateyLastPathUpdate=133538999889199737
+__PSLockDownPolicy=0
+ProgramFiles(x86)=C:\Program Files (x86)
+TMP=C:\Users\Pio\AppData\Local\Temp
+CONFIG_SITE=F:/Git/etc/config.site
+PROCESSOR_REVISION=3a09
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 58 Stepping 9, GenuineIntel
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+MSYSTEM_PREFIX=F:/Git/mingw64
+USERNAME=Pio
+MINGW_PREFIX=F:/Git/mingw64
+GIT_EXEC_PATH=F:/Git/mingw64/libexec/git-core
+ACLOCAL_PATH=F:\Git\mingw64\share\aclocal;F:\Git\usr\share\aclocal
+TEMP=C:\Users\Pio\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\Pio\AppData\Local
+MANPATH=F:\Git\mingw64\local\man;F:\Git\mingw64\share\man;F:\Git\usr\local\man;F:\Git\usr\share\man;F:\Git\usr\man;F:\Git\share\man
+OneDrive=C:\Users\Pio\OneDrive
+ADSK_3DSMAX_x64_2017=C:\Program Files\Autodesk\3ds Max 2017\
+MSYSTEM_CARCH=x86_64
+PROGRAMFILES=C:\Program Files (x86)
+HOSTNAME=DESKTOP-UUR0U9Q
+OS=Windows_NT
+ORIGINAL_TMP=C:/Users/Pio/AppData/Local/Temp
+SYSTEMROOT=C:\WINDOWS
+TERM_PROGRAM=vscode
+ORIGINAL_PATH=F:\Git\mingw64\bin;F:\Git\usr\bin;C:\Users\Pio\bin;C:\Python312\Scripts;C:\Python312;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files\Common Files\Autodesk Shared;C:\WINDOWS\System32\OpenSSH;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\120\Tools\Binn;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;F:\Git\cmd;C:\Program Files\dotnet;F:\platform-tools;F:\PackageManagements\Node.js;C:\ProgramData\chocolatey\bin;C:\Users\Pio\AppData\Local\Programs\Python\Python310\Scripts;C:\Users\Pio\AppData\Local\Programs\Python\Python310;C:\Users\Pio\AppData\Local\Microsoft\WindowsApps;F:\Microsoft VS Code\Microsoft VS Code\bin;C:\Users\Pio\.dotnet\tools;C:\Users\Pio\AppData\Roaming\npm
+NUMBER_OF_PROCESSORS=8
+SSH_ASKPASS=F:/Git/mingw64/bin/git-askpass.exe
+SHLVL=1
+SYSTEMDRIVE=C:
+TERM_PROGRAM_VERSION=1.92.2
+VSCODE_GIT_ASKPASS_MAIN=f:\Microsoft VS Code\Microsoft VS Code\resources\app\extensions\git\dist\askpass-main.js
+PSModulePath=C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC=C:\Users\Public
+VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-02ac2bbce5-sock
+FPS_BROWSER_USER_PROFILE_STRING=Default
+PKG_CONFIG_PATH=F:\Git\mingw64\lib\pkgconfig;F:\Git\mingw64\share\pkgconfig
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-UUR0U9Q
+MSYSTEM_CHOST=x86_64-w64-mingw32
+ORIGINAL_TEMP=C:/Users/Pio/AppData/Local/Temp
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_21280_SGASEMRWBXERHGWJ
+WINDIR=C:\WINDOWS
+PLINK_PROTOCOL=ssh
+COLORTERM=truecolor
+ProgramW6432=C:\Program Files
+PATH=F:/Git/mingw64/libexec/git-core;C:\Users\Pio\bin;F:\Git\mingw64\bin;F:\Git\usr\local\bin;F:\Git\usr\bin;F:\Git\usr\bin;F:\Git\mingw64\bin;F:\Git\usr\bin;C:\Users\Pio\bin;C:\Python312\Scripts;C:\Python312;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files\Common Files\Autodesk Shared;C:\WINDOWS\System32\OpenSSH;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\120\Tools\Binn;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;F:\Git\cmd;C:\Program Files\dotnet;F:\platform-tools;F:\PackageManagements\Node.js;C:\ProgramData\chocolatey\bin;C:\Users\Pio\AppData\Local\Programs\Python\Python310\Scripts;C:\Users\Pio\AppData\Local\Programs\Python\Python310;C:\Users\Pio\AppData\Local\Microsoft\WindowsApps;F:\Microsoft VS Code\Microsoft VS Code\bin;C:\Users\Pio\.dotnet\tools;C:\Users\Pio\AppData\Roaming\npm;F:\Git\usr\bin\vendor_perl;F:\Git\usr\bin\core_perl
+ChocolateyInstall=C:\ProgramData\chocolatey
+BESIEGE_UNITY_ASSEMBLIES=F:/Steam/steamapps/common/Besiege/Besiege_Data\Managed/
+VSCODE_GIT_ASKPASS_NODE=F:\Microsoft VS Code\Microsoft VS Code\Code.exe
+ADSK_3DSMAX_x64_2020=P:\Autodesk\3ds Max 2020\
+ADSK_3DSMAX_x64_2016=C:\Program Files\Autodesk\3ds Max 2016\
+TMPDIR=C:\Users\Pio\AppData\Local\Temp
+TERM=xterm-256color
+ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+INTEL_DEV_REDIST=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+SHELL=F:\Git\usr\bin\bash.exe
+HOME=C:\Users\Pio
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+COMSPEC=C:\WINDOWS\system32\cmd.exe
+PROCESSOR_ARCHITEW6432=AMD64
+LOGONSERVER=\\DESKTOP-UUR0U9Q
+USERPROFILE=C:\Users\Pio
+DISPLAY=needs-to-be-defined
+COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files
+ProgramData=C:\ProgramData
+_=F:/Git/mingw64/bin/git
+USERDOMAIN=DESKTOP-UUR0U9Q
+APPDATA=C:\Users\Pio\AppData\Roaming
+HOMEDRIVE=C:
+INFOPATH=F:\Git\usr\local\info;F:\Git\usr\share\info;F:\Git\usr\info;F:\Git\share\info
+OneDriveConsumer=C:\Users\Pio\OneDrive
+MINGW_PACKAGE_PREFIX=mingw-w64-x86_64
+CommonProgramW6432=C:\Program Files\Common Files
+SESSIONNAME=Console
+PWD=F:/0coding/gitRemoteStudy/gitRemoteStudy
+EXEPATH=F:\Git\bin
+BESIEGE_GAME_ASSEMBLIES=F:/Steam/steamapps/common/Besiege/Besiege_Data\Managed/
+MIC_LD_LIBRARY_PATH=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\mic
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+PROCESSOR_ARCHITECTURE=x86
+PS1=\[]633;A\]\[\033]0;$TITLEPREFIX:$PWD\007\]\n\[\033[32m\]\u@\h \[\033[35m\]$MSYSTEM \[\033[33m\]\w\[\033[36m\]`__git_ps1`\[\033[0m\]\n$ \[]633;B\]
+C_EM64T_REDIST11=C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\
+__COMPAT_LAYER=DetectorsAppHealth
+MINGW_CHOST=x86_64-w64-mingw32
+GIT_ASKPASS=f:\Microsoft VS Code\Microsoft VS Code\resources\app\extensions\git\dist\askpass.sh
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\Pio\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\Pio\AppData\Local\Temp\5aab4a139645dc3a5f379022'... OK
+Reading from temporary file 'C:\Users\Pio\AppData\Local\Temp\5aab4a139645dc3a5f379022'... OK
+Deleting temporary file 'C:\Users\Pio\AppData\Local\Temp\5aab4a139645dc3a5f379022'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\Pio
+UserDataDirectoryPath: C:\Users\Pio\.gcm
+GetCurrentDirectory(): F:\0coding\gitRemoteStudy\gitRemoteStudy
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking basic networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com... OK
+Sending HEAD request to https://example.com... OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:63825/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+Testing with IHttpClientFactory created HTTP client...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com... OK
+Sending HEAD request to https://example.com... OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:63827/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.38.1.windows.1'
+Locating current repository... OK
+Git repository at 'F:/0coding/gitRemoteStudy/gitRemoteStudy/.git'
+Listing all Git configuration... OK
+Git configuration:
+file:F:/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:F:/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:F:/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:F:/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:F:/Git/etc/gitconfig	filter.lfs.required=true
+file:F:/Git/etc/gitconfig	http.sslbackend=openssl
+file:F:/Git/etc/gitconfig	http.sslcainfo=F:/Git/mingw64/ssl/certs/ca-bundle.crt
+file:F:/Git/etc/gitconfig	core.autocrlf=true
+file:F:/Git/etc/gitconfig	core.fscache=true
+file:F:/Git/etc/gitconfig	core.symlinks=false
+file:F:/Git/etc/gitconfig	pull.rebase=false
+file:F:/Git/etc/gitconfig	credential.helper=manager-core
+file:F:/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:F:/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/Pio/.gitconfig	core.editor="F:\Microsoft VS Code\Microsoft VS Code\bin\code" --wait
+file:C:/Users/Pio/.gitconfig	user.name=pio
+file:C:/Users/Pio/.gitconfig	user.email=pioordozgoith@gmail.com
+file:C:/Users/Pio/.gitconfig	difftool.sourcetree.cmd='' 
+file:C:/Users/Pio/.gitconfig	mergetool.sourcetree.cmd='' 
+file:C:/Users/Pio/.gitconfig	mergetool.sourcetree.trustexitcode=true
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/pioordozgoith/gitRemoteStudy.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
+file:.git/config	branch.main.vscode-merge-base=origin/main
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker not supported.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\Pio\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\Pio\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
