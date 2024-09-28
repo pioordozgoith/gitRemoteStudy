@@ -1,0 +1,6 @@
+# Ignora todos os arquivos com extensão .log
+*.log
+
+# Se houver pastas específicas para logs, você pode ignorá-las também
+logs/
+diagnose/
